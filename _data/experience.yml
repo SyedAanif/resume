@@ -1,0 +1,15 @@
+# Jobs
+- company: Mercedes-Benz Research and Development India, Bengaluru
+  position: Senior Software Engineer
+  duration: Feb, 2021 &mdash; Present
+  summary: <ul class="resume-item-list"><li>Programmed microservice based architecture using Microsoft Azure acting as gateway for Mercedes Intelligent Cloud.</li><li>The system scalably serves 3M req per hour originating from 12M+ connected cars globally.</li><li>Automated scripts to efficiently analyze and visualize connectivity-state of cars.</li><li>Designed a tolerant system to transfer data efficiently of the order of GBs from fast-paced connected vehicles.</li></ul>
+
+- company: Infrrd Pvt Ltd, Bengaluru
+  position: Java Developer
+  duration: Jul, 2020 &mdash; Jan, 2021
+  summary: <ul class="resume-item-list"><li>Engineered back-end for real-estate property clients HomeGenius and Avalar.</li><li>Automated the property buying, listing, searching for customers, agents, directors.</li></ul>
+
+- company: Infosys  Ltd, Bengaluru
+  position: Systems Engineer
+  duration: May, 2018 &mdash; May, 2020
+  summary: <ul class="resume-item-list"><li>Coded inventory solutions for customer and device on-boarding for British Telecom.</li><li>The system catered to 100+ customers with over 125K telecom devices globally.</li><li>Reduced customer on-boarding process by 3h and no manual management for  devices.</li></ul>

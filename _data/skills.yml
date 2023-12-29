@@ -1,0 +1,12 @@
+# Skills
+- skill: Languages
+  description: <ul class="resume-item-list"><li>Java</li><li>Python</li><li>Go</li><li>HTML</li><li>CSS</li><li>JavaScript</li></ul>
+
+- skill: Technologies
+  description: <ul class="resume-item-list"><li>AWS</li><li>Azure</li><li>Docker</li><li>Kubernetes</li><li>PostgeSQL</li><li>ExpressJS</li><li>NodeJS</li><li>EmbeddedJS</li></ul>
+
+- skill: Frameworks
+  description: <ul class="resume-item-list"><li>Spring Boot</li><li>Hibernate</li><li>Bootstrap</li><li>React</li><li>SAFe 5</li></ul>
+
+- skill: Libraries
+  description: <ul class="resume-item-list"><li>NumPy</li><li>Pandas</li><li>Sci-Kit Learn</li><li>Tensorflow</li></ul>
